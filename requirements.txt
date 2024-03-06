@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-openai
 langchain-experimental
 langchain-core
 langchain-community
