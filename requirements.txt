@@ -1,12 +1,11 @@
 streamlit
-streamlit_chat
 langchain
+langchain-experimental
+langchain-core
+langchain-community
 pandas
 openai
 tqdm
 python-dotenv
 faiss-cpu
 tiktoken
-tabulate
-unstructured
-pdf2image
