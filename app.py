@@ -4,7 +4,7 @@ import os, tempfile
 import pandas as pd
 from langchain.chat_models import ChatOpenAI
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
+from langchain.embeddings import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import CSVLoader
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
